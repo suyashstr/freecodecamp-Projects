@@ -1,4 +1,4 @@
-# freecodecamp-Projects:-
-Making this repository for viewing purposes for people stuck in code.
+# HTML & CSS-Projects:-
+Making this repository for people practicing small projects for html & css
 <br>
 Author-Suyash Sunil Mane
